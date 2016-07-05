@@ -14,8 +14,7 @@ CBoW.py
 
 autoencoder.py
 ----
-+ Usage 
-  -- python autoencoder.py
++ The implement of autoencoder
 
 mnist dataset
 ----
