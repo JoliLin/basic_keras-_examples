@@ -1,8 +1,6 @@
 There are some samples for keras.
 ----
-+ Keras Documentation
-----
-  -- http://keras.io/
++ Keras Documentation -- http://keras.io/
 
 
 CBoW.py
